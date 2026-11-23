@@ -1,9 +1,8 @@
-![Parks · @Parksdotjar · mining and crafting](./assets/parks.svg)
+<img src="./assets/delight-cover.png" width="100%" alt="Delight by Parks (@Parksdotjar). Minecraft launcher and visual effects studio.">
 
-<a href="https://github.com/Parksdotjar/BloomClient-V2"><img src="./assets/client.svg" alt="Delight Client" width="181" height="39"></a>
-<a href="https://github.com/Parksdotjar/EldoriaUnbound"><img src="./assets/eldoria.svg" alt="Eldoria Unbound" width="181" height="39"></a>
-<a href="https://github.com/Parksdotjar/Delight-Releases/releases"><img src="./assets/releases.svg" alt="Studio releases" width="181" height="39"></a>
+<p align="center">
+  <a href="https://github.com/Parksdotjar/BloomClient-V2/releases/latest"><img src="./assets/delight-client.svg" width="390" alt="Get Delight Client — a Minecraft Java launcher for managing instances and mods"></a>
+  <a href="https://github.com/Parksdotjar/Delight-Releases/releases/latest"><img src="./assets/delight-studio.svg" width="390" alt="Get Delight Studio — a visual effects editor for Windows and macOS"></a>
+</p>
 
-I build Minecraft tools and mods. My launcher, **Delight Client V2**, lets you keep your vanilla and Fabric setups separate, install mods from Modrinth, and tune performance with a local benchmark.
-
-**[Eldoria Unbound](https://github.com/Parksdotjar/EldoriaUnbound)** is my custom Minecraft mod. I also publish the Windows builds of **[Delight Studio](https://github.com/Parksdotjar/Delight-Releases/releases)**.
+<p align="center"><a href="https://github.com/Parksdotjar/BloomClient-V2">Client source</a> &nbsp; · &nbsp; <a href="https://github.com/Parksdotjar/Delight-Releases">Studio releases repository</a></p>
