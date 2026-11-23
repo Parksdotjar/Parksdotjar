@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 56 56" shape-rendering="crispEdges">
+  <title>A pocket video monitor with a little pixel face</title>
+  <path fill="#191919" stroke="#999" d="M7 11h38v3h4v26h-4v4H29v3h8v3H16v-3h8v-3H10v-3H6V14h1z"/>
+  <path fill="#858585" d="M8 12h35v2H8zm-1 3h2v23H7z"/>
+  <path fill="#363636" d="M12 16h27v18H12z"/>
+  <path fill="#bfbfbf" d="M14 18h23v14H14z"/>
+  <path fill="#202020" d="M18 22h3v4h-3zm12 0h3v4h-3zm-8 5h2v2h4v-2h2v3h-2v1h-4v-1h-2z"/>
+  <path fill="#adadad" d="M42 18h3v2h-3zm0 4h3v2h-3zM12 37h11v1H12z"/>
+  <path fill="#f4f4f4" d="M41 36h3v2h-3zM45 3h2v3h3v2h-3v3h-2V8h-3V6h3z"/>
+</svg>

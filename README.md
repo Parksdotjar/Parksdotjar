@@ -1,8 +1,21 @@
-<img src="./assets/delight-cover.png" width="100%" alt="Delight by Parks (@Parksdotjar). Minecraft launcher and visual effects studio.">
+<img align="right" src="./assets/pocket-monitor.svg" width="88" height="88" alt="A little pixel monitor smiling back">
 
-<p align="center">
-  <a href="https://github.com/Parksdotjar/BloomClient-V2/releases/latest"><img src="./assets/delight-client.svg" width="390" alt="Get Delight Client — a Minecraft Java launcher for managing instances and mods"></a>
-  <a href="https://github.com/Parksdotjar/Delight-Releases/releases/latest"><img src="./assets/delight-studio.svg" width="390" alt="Get Delight Studio — a visual effects editor for Windows and macOS"></a>
-</p>
+# Hey, I’m Parks.
 
-<p align="center"><a href="https://github.com/Parksdotjar/BloomClient-V2">Client source</a> &nbsp; · &nbsp; <a href="https://github.com/Parksdotjar/Delight-Releases">Studio releases repository</a></p>
+I make videos and build desktop apps. Around here, that usually means Minecraft or something for the editing timeline.
+
+### About me
+
+I post videos as **@ParksVAL**. I’m also into anime. I keep [my watchlist](https://subscribetoparks.com/anime/) on my site, with everything from *Hunter × Hunter* to *86*.
+
+### What I’m building
+
+**[Delight Client](https://github.com/Parksdotjar/BloomClient-V2)**<br>
+My launcher for Minecraft Java. Keep a clean vanilla instance alongside a modded one, and install mods from Modrinth inside the launcher. [Get the client ↗](https://github.com/Parksdotjar/BloomClient-V2/releases/latest)
+
+**[Delight Studio](https://github.com/Parksdotjar/Delight-Releases)**<br>
+My desktop video effects editor. Shape the motion between keyframes or use the Roto Brush to cut out a subject. [Get the studio ↗](https://github.com/Parksdotjar/Delight-Releases/releases/latest)
+
+---
+
+[Personal site](https://subscribetoparks.com/) · [YouTube](https://www.youtube.com/@ParksVAL) · [Discord](https://discord.gg/GMCFA2CAJM)
